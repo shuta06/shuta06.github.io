@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>コンピューターに惹かれるな</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://shuta06.github.io/"/>
+  <updated>2018-06-01T13:34:15.613Z</updated>
+  <id>https://shuta06.github.io/</id>
+  
+  <author>
+    <name>shuta06</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>テスト投稿</title>
+    <link href="https://shuta06.github.io/2018/06/01/test/"/>
+    <id>https://shuta06.github.io/2018/06/01/test/</id>
+    <published>2018-06-01T12:19:59.000Z</published>
+    <updated>2018-06-01T13:34:15.613Z</updated>
+    
+    <content type="html"><![CDATA[<p>ああああああ</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;ああああああ&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
